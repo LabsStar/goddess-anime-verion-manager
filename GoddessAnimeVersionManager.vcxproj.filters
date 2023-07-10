@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="GoddessAnimeVerionManager.cpp">
+    <ClCompile Include="GoddessAnimeVersionManager.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
